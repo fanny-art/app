@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мой первый сайт</title>
+</head>
+<>
+    <h1> Меня зовут Фаниль</h1>
+    <img src="images/photo_37026.jpg">
+    <p>Lorem ipsum <b>dolor</b> sit amet <i>adipisicing elit</i> . 
+        Esse, aliquid. <b><i>Quod suscipit ut eligendi</i></b> laboriosam 
+        voluptatem voluptates repudiandae natus veniam?</p>
+    <p>Lorem ipsum dolor, <u>it amet consectetur adipisicing elit.</u>s Incidunt, unde.</p>
+</body>
+<ol>
+    <li>Текст</li>
+    <li>Текст</li>
+    <li>Текст</li>
+    <li>Текст</li>
+    <li>Текст</li>
+</ol>
+</html>
